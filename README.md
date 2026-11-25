@@ -1,6 +1,6 @@
 # GRC Portfolio
 
-Governance, risk and compliance work samples for a fictional craft brewery ("Bow River Brewing"): risk assessment, NIST CSF 2.0 gap analysis, security policies and a business continuity plan.
+Governance, risk and compliance work samples for a fictional craft brewery ("Kettle & Cipher Brewing"): risk assessment, NIST CSF 2.0 gap analysis, security policies and a business continuity plan.
 
 ## Why this repo
 
